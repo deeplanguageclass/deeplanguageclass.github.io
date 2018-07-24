@@ -1,9 +1,13 @@
+# I. Fundamentals
+
 ## Language
 What is language?  
 Context-dependent, ambiguous, overloaded...
 word < sentence < document < corpus  
 Anaphora, canonical forms, grammars, lemmata, Zipf's law...  
 How many languages are there?  Is English increasing or decreasing?
+
+How is machine learning for language different than, for example, vision?
 
 ## Applications
 Brief history from ELIZA to Siri  
