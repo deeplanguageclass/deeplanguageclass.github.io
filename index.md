@@ -17,3 +17,6 @@ Prerequisites: solid coding skills, strong analytical ability, fluency in multip
 
 ## [III - Project](project)
 
+## Resources
+
+See [NLP Guide](https://nlpguide.github.io/)
