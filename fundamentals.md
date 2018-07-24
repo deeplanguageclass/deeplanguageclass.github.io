@@ -9,7 +9,9 @@ Brief history from ELIZA to Siri
 Machine translation, search, dialogue, machine translation, spam filtering, recommendations, spelling correction, sentiment analysis  
 
 ## Tasks and Progress
-segmentation, tokenisation, stemming, parsing, named-entity recognition, summarisation, natural language generation, language identification, anaphora resolution  
+segmentation, tokenisation, stemming, tagging, parsing, named-entity recognition, summarisation, natural language generation, language identification, anaphora resolution  
+
+[spaCy demos](https://explosion.ai/demos/) - parsing
 
 mixed tasks: image captioning eg https://twitter.com/picdescbot, CLEVR, speech recognition / synthesis
 
