@@ -13,7 +13,7 @@ segmentation, tokenisation, stemming, tagging, parsing, named-entity recognition
 
 [spaCy demos](https://explosion.ai/demos/) - parsing
 
-mixed tasks: image captioning eg https://twitter.com/picdescbot, CLEVR, speech recognition / synthesis
+mixed tasks: image captioning eg [@picdescbot](https://twitter.com/picdescbot), CLEVR, speech recognition / synthesis
 
 metrics: BLEU, ...
 
