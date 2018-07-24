@@ -7,7 +7,7 @@ tokenisation, stemming, parsing, named-entity recognition, summarisation, natura
 
 mixed tasks: image captioning eg https://twitter.com/picdescbot, CLEVR, speech recognition / synthesis
 
-[AI Index](https://aiindex.org/)
+state of the art: [AI Index](https://aiindex.org/) 2017 report
 
 ## Approaches  
 The basic building blocks that are re-used in many approaches:  
