@@ -11,11 +11,11 @@ Prerequisites: solid coding skills, strong analytical ability, fluency in multip
 
 *This class is part of the [2018 YSU – ISTC Join Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/).*
 
-## [I - Fundamentals](fundamentals)
+## [I. Fundamentals](fundamentals)
 
-## [II - Deep Learning](deeplearning)
+## [II. Deep Learning](deeplearning)
 
-## [III - Lab](lab)
+## [III. Lab](lab)
 
 ## Resources
 
