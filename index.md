@@ -6,7 +6,7 @@ In this class we will start with natural language processing **fundamentals** an
 
 We will also keep in view how natural language tasks relate to tasks in other areas of machine learning. 
 
-Instructors: Erik Arakelyan + Adam Bittlingmayer
+Instructors: Erik Arakelyan, Teamable and Adam Bittlingmayer, Signal N
 
 Prerequisites: solid coding skills, strong analytical ability, fluency in multiple human languages, a Unix system with Python
 
