@@ -2,7 +2,8 @@
 What is language?  
 Context-dependent, ambiguous, overloaded...
 word < sentence < document < corpus  
-Anaphora, canonical forms, grammars, lemmata, Zipf's law...
+Anaphora, canonical forms, grammars, lemmata, Zipf's law...  
+How many languages are there?  Is English increasing or decreasing?
 
 ## Applications
 Brief history from ELIZA to Siri  
