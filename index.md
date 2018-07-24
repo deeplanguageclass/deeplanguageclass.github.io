@@ -7,7 +7,7 @@ We will also keep in view how natural language tasks relate to tasks in other ar
 
 Instructors: Erik Arakelyan + Adam Bittlingmayer
 
-Prerequisites: solid coding skills, strong analytical ability, fluency in multiple human languages, a Unix system
+Prerequisites: solid coding skills, strong analytical ability, fluency in multiple human languages, a Unix system with Python
 
 *This class is part of the [2018 YSU – ISTC Join Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/).*
 
