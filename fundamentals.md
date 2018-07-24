@@ -1,7 +1,6 @@
 ## Applications
-Brief history
+Brief history from ELIZA to Siri  
 Machine translation, search, dialogue, machine translation, recommendations, spelling correction, sentiment analysis  
-Google, Siri...
 
 ## Tasks and Progress
 tokenisation, stemming, parsing, named-entity recognition, summarisation, natural language generation, language identification
