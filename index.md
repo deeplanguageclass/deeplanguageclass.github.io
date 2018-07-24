@@ -15,7 +15,7 @@ Prerequisites: solid coding skills, strong analytical ability, fluency in multip
 
 ## [II - Deep Learning](deeplearning)
 
-## [III - Project](project)
+## [III - Lab](lab)
 
 ## Resources
 
