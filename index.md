@@ -1,6 +1,6 @@
-*[github.com/deeplanguageclass/](https://github.com/deeplanguageclass/)*
-
 # Machine Learning for Natural Language Processing
+
+*[github.com/deeplanguageclass/](https://github.com/deeplanguageclass/)*
 
 Recent progress in machine learning for natural language is significant, however language poses some unique challenges.
 
