@@ -16,12 +16,14 @@ Prerequisites: solid coding skills, strong analytical ability, basic machine lea
 
 Announcements and questions: [deeplanguageclass Telegram group](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg)
 
-## [I. Fundamentals](/fundamentals)
+### [I. Fundamentals](/fundamentals)
 
-## [II. Deep Learning](/deeplearning)
+### [II. Deep Learning](/deeplearning)
 
-## [III. Lab](/lab)
+### [Lab 1 - word2vec](/lab)
 
-## Resources
+### [Lab 2 - seq2seq](/fairseq-transliteration)
+
+### Resources
 
 See [NLP Guide](https://nlpguide.github.io/)
