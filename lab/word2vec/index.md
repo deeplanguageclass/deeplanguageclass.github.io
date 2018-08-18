@@ -1,1 +1,1 @@
-# Lab | word2vec
+# Lab - word2vec
