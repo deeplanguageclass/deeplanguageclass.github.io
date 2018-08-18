@@ -20,9 +20,9 @@ Announcements and questions: [deeplanguageclass Telegram group](https://t.me/joi
 
 ### [II. Deep Learning](/deeplearning)
 
-### [Lab 1 - word2vec](/lab)
+### [Lab - word2vec](/lab/word2vec)
 
-### [Lab 2 - seq2seq](/fairseq-transliteration)
+### [Lab - seq2seq](/lab/seq2seq)
 
 ### Resources
 
