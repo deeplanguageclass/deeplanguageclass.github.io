@@ -16,11 +16,11 @@ Prerequisites: solid coding skills, strong analytical ability, basic machine lea
 
 Announcements and questions: [deeplanguageclass Telegram group](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg)
 
-## [I. Fundamentals](fundamentals)
+## [I. Fundamentals](/fundamentals)
 
-## [II. Deep Learning](deeplearning)
+## [II. Deep Learning](/deeplearning)
 
-## [III. Lab](lab)
+## [III. Lab](/lab)
 
 ## Resources
 
