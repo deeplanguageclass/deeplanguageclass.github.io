@@ -2,7 +2,7 @@
 
 *This class is part of the [2018 YSU – ISTC Join Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/).  View or edit the source for this website at [github.com/deeplanguageclass](https://github.com/deeplanguageclass/).*
 
-<img src="https://avatars2.githubusercontent.com/u/41621207?s=100" align="left"/>
+<img src="/favicon.ico" align="left"/>
 
 Recent progress in machine learning for natural language is significant, however language poses some unique challenges.
 
