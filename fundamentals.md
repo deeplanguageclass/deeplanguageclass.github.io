@@ -1,4 +1,6 @@
-# I. Fundamentals
+# Fundamentals
+
+Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrXtjlXC-R-2syv2xObYw35xg7N8-DA/view), [Fundamentals 2](https://docs.google.com/presentation/d/15_QC6P6K2yW-gTvExSol_b0ReWTvBwZp5im0nb5csdk/view)
 
 ## Language
 What is language?  
