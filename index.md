@@ -25,11 +25,11 @@ Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrX
 
 Slides: coming soon
 
-### [Lab - word2vec]
+### lab - word2vec
 
 [kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews)
 
-### [Lab - seq2seq](/lab/seq2seq)
+### Lab - seq2seq
 
 [fairseq-transliteration](/fairseq-transliteration/)
 
