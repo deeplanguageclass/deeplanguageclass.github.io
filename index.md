@@ -16,13 +16,22 @@ Prerequisites: solid coding skills, strong analytical ability, basic machine lea
 
 Announcements and questions: [deeplanguageclass Telegram group](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg)
 
-### [Fundamentals](/fundamentals)
+### Fundamentals
 
-### [Deep Learning](/deeplearning)
+Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrXtjlXC-R-2syv2xObYw35xg7N8-DA/view), [Fundamentals 2](https://docs.google.com/presentation/d/15_QC6P6K2yW-gTvExSol_b0ReWTvBwZp5im0nb5csdk/view)
 
-### [Lab - word2vec](/lab/word2vec)
+
+### Deep Learning
+
+Slides: coming soon
+
+### [Lab - word2vec]
+
+[kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews)
 
 ### [Lab - seq2seq](/lab/seq2seq)
+
+[fairseq-transliteration](/fairseq-transliteration/)
 
 ### More resources
 
