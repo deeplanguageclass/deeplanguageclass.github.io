@@ -14,7 +14,7 @@ Instructors: Erik Arakelyan, Teamable and Adam Bittlingmayer, Signal N
 
 Prerequisites: solid coding skills, strong analytical ability, basic machine learning concepts, fluency in multiple human languages, a Unix system with Python
 
-Announcements and questions: [deeplanguageclass Telegram group](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg)
+Announcements and questions: the [#nlp Slack channel](https://mss-ysu.slack.com/messages/CCC5LD4QP/) and the [deeplanguageclass Slack channel](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg)
 
 ### Fundamentals
 
