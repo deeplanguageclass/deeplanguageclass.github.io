@@ -27,7 +27,7 @@ Slides: coming soon
 
 ### lab - word2vec
 
-[kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews)
+[kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews/home)
 
 ### Lab - seq2seq
 
