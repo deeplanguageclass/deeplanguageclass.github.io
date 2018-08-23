@@ -24,6 +24,9 @@ Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrX
 
 Slides: [Deep Learning](https://docs.google.com/presentation/d/1fw2G2KiLhNUm1gAR1DOSNsAvnyqyn_uUaxTkLqNr1Nk/view)
 
+Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki), (word2vec-gensim-gameofthrones.ipynb)[https://github.com/deeplanguageclass/word2vec-gensim-gameofthrones.ipynb]
+
+
 ### lab - word2vec
 
 [kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews/home)
