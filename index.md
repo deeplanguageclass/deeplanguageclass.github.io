@@ -27,13 +27,17 @@ Slides: [Deep Learning](https://docs.google.com/presentation/d/1fw2G2KiLhNUm1gAR
 Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki), [word2vec-gensim-gameofthrones.ipynb](https://github.com/deeplanguageclass/word2vec-gensim-gameofthrones.ipynb)
 
 
-### lab - word2vec
+### Lab - word2vec
 
-[kaggle.com/bittlingmayer/amazonreviews](https://www.kaggle.com/bittlingmayer/amazonreviews/home)
+For this lab we will use the [fastText](https://github.com/facebookresearch/fastText) library from FAIR for training word2vec models and a classifier.
+
+We will use a dataset of [4M Amazon reviews labelled by sentiment in the fastText format](https://www.kaggle.com/bittlingmayer/amazonreviews/home). 
+
+Notebook: TODO
 
 ### Lab - seq2seq
 
-[fairseq-transliteration](/fairseq-transliteration/)
+TODO
 
 ### More resources
 
