@@ -6,7 +6,7 @@ For this lab we use [Fairseq](https://facebook.ai/developers/tools/fairseq) for 
 
 ## Transliteration
 
-Today's text data are full of informal lossy Latinisations (Romanisations) of non-Latin text, for example Russian, Chinese, Arabic, Hindi, Greek or Armenian.
+Today's text data are full of informal or otherwise lossy or inconsisten Latinisations (Romanisations) of non-Latin text, for example Russian [translit](https://en.wikipedia.org/wiki/Informal_romanizations_of_Cyrillic#Translit), Chinese [pinyin](https://en.wikipedia.org/wiki/Pinyin), Arabic [arabizi](https://en.wikipedia.org/wiki/Arabic_chat_alphabet), Persian [Pingilish](https://en.wikipedia.org/wiki/Romanization_of_Persian#ASCII_Internet_romanizations) and similar for many other languages like Hindi, Greek or Armenian.
 
 Transliteration is the task of converting text to the canonical alphabet, for example Russian to proper Russian Cyrillic.  Both the input an output are a string.
 
