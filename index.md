@@ -30,7 +30,7 @@ Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.git
 ### [Lab - word2vec](lab/fasttext-amazon)
 
 
-### Lab - seq2seq
+### [Lab - seq2seq](lab/fairseq-transliteration)
 
 
 ### More resources
