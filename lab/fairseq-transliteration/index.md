@@ -1,6 +1,6 @@
 # Transliteration with Fairseq
 
-*For this lab we use our [character-level fork of Fairseq](https://github.com/deeplanguageclass/fairseq-transliteration).
+*For this lab we use our [character-level fork of Fairseq](https://github.com/deeplanguageclass/fairseq-transliteration).*
 
 *You can do this lab with the [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.*
 
@@ -16,7 +16,7 @@ Like translation, it is not a 1:1 mapping but probabilistic - some characters or
 
 One of the first open-source deep learning approaches to transliteration is [translit-rnn by YerevaNN](https://github.com/YerevaNN/translit-rnn/).
 
-In their blog post[*Automatic transliteration with LSTM*](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/) they give examples.
+In their blog post [*Automatic transliteration with LSTM*](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/) they give examples.
 
 
 ## seq2seq
