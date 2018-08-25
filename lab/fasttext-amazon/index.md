@@ -1,5 +1,7 @@
 # Classifying Amazon reviews with fastText
 
+*You can do this lab on your own Unix machine, in [IPython Notebook on Google Colab] (https://colab.research.google.com/drive/1yelP5eE0lIMXQaXeOq5vlnOby99VAUnz) or on [Kaggle](https://www.kaggle.com/bittlingmayer/amazonreviews/home).*
+
 For this lab we will use the [fastText](https://github.com/facebookresearch/fastText) library from FAIR for training word2vec models and a classifier.
 
 We will use a dataset of [4M Amazon reviews labelled by sentiment in the fastText format](https://www.kaggle.com/bittlingmayer/amazonreviews/home). 
