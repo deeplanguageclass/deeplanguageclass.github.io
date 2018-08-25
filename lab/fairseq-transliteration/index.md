@@ -46,6 +46,8 @@ We take YerevaNN's approach of generating the "translit" data with the mappings 
 
 ## Training
 
-Because we need a GPU, we put the [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) Google Colab.
+Because we need a GPU, we put the [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) Google Colab.  Fairseq supports checkpointing, so you can test the model at any epoch and continue training.
 
+## Demo
 
+There is a demo online at [104.155.65.42:5007/translit](http://104.155.65.42:5007/translit) that serves a model with Flask.  The model was trained for about an hour (three epochs) on a laptop.
