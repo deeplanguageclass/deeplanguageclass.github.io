@@ -1,13 +1,17 @@
 # Classifying Amazon reviews with fastText
 
+For this lab we will use the [fastText](https://github.com/facebookresearch/fastText) library from FAIR for training word2vec models and a classifier.
+
+We will use a dataset of [4M Amazon reviews labelled by sentiment in the fastText format](https://www.kaggle.com/bittlingmayer/amazonreviews/home). 
+
+
+## Dataset
+
 We start with a dataset of a few million Amazon product reviews.
 
 1- and 2-star reviews we consider to have negative sentiment, 4- and 5-star reviews positive sentiment.
 
 We just throw away 3-star reviews.
-
-
-## Dataset
 
 The train and test files are already in the in the fastText format.
 
