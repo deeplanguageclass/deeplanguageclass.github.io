@@ -1,4 +1,4 @@
-# Classifying Amazon reviews with fastText**
+# Classifying Amazon reviews with fastText
 
 We start with a dataset of a few million Amazon product reviews.
 
