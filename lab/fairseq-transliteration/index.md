@@ -19,7 +19,7 @@ Sequence-to-sequence or seq2seq models are useful when both input and output are
 
 It can also be applied to other types of sequences, like DNA.
 
-It is commonly used for translation, but also for tasks like grammar correction or question answering.
+It is commonly used for translation, but also for tasks like summarisation, grammar correction or question answering.
 
 
 ## Fairseq
