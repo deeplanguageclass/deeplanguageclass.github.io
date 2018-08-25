@@ -1,5 +1,11 @@
 # Transliteration with Fairseq
 
+*For this lab we use our [character-level fork of Fairseq](https://github.com/deeplanguageclass/fairseq-transliteration).
+
+*You can do this lab with the [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.*
+
+*The full dataset is in the repo [fairseq-transliteration-data](https://github.com/deeplanguageclass/fairseq-transliteration-data).*
+
 For this lab we use [Fairseq](https://facebook.ai/developers/tools/fairseq) and a dump of Wikipedia for a language in a non-Latin alphabet.
 
 ## Transliteration
