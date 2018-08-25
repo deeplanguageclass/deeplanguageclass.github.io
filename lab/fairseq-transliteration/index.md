@@ -2,11 +2,13 @@
 
 *For this lab we use our [character-level fork of Fairseq](https://github.com/deeplanguageclass/fairseq-transliteration).  You can do this lab with the [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.  The full dataset is in the repo [fairseq-transliteration-data](https://github.com/deeplanguageclass/fairseq-transliteration-data).  A demo serving a trained model is up at [104.155.65.42:5007/translit](http://104.155.65.42:5007/translit).*
 
-For this lab we use [Fairseq](https://facebook.ai/developers/tools/fairseq) and a dump of Wikipedia for a language in a non-Latin alphabet.
+For this lab we use [Fairseq](https://facebook.ai/developers/tools/fairseq) for transliteration by generating data from a dump of Wikipedia for a language in a non-Latin alphabet.
 
 ## Transliteration
 
-In the transliteration task we take a string as input and return a string as output.
+Today's text data are full of informal lossy Latinisations (Romanisations) of non-Latin text, for example Russian, Chinese, Arabic, Hindi, Greek or Armenian.
+
+Transliteration is the task of converting text to the canonical alphabet, for example Russian to proper Russian Cyrillic.  Both the input an output are a string.
 
 Like translation, it is not a 1:1 mapping but probabilistic - some characters or character combinations are overloaded - and would require real natural language understanding to do perfectly.
 
