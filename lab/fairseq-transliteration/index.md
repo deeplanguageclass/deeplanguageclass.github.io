@@ -10,9 +10,7 @@ In the transliteration task we take a string as input and return a string as out
 
 Like translation, it is not a 1:1 mapping but probabilistic - some characters or character combinations are overloaded - and would require real natural language understanding to do perfectly.
 
-One of the first open-source deep learning approaches to transliteration is [translit-rnn by YerevaNN](https://github.com/YerevaNN/translit-rnn/).
-
-In their blog post [*Automatic transliteration with LSTM*](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/) they give examples.
+One of the first open-source deep learning approaches to transliteration is [translit-rnn by YerevaNN](https://github.com/YerevaNN/translit-rnn/).  In their blog post [*Automatic transliteration with LSTM*](http://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/) they give examples.
 
 
 ## seq2seq
@@ -21,7 +19,7 @@ Sequence-to-sequence or seq2seq models are useful when both input and output are
 
 It can also be applied to other types of sequences, like DNA.
 
-It is commonly used for translation, but also for tasks like summarisation, grammar correction or question answering.
+seq2seq is commonly used for translation, but is also useful for tasks like summarisation, grammar correction or question answering.
 
 
 ## Fairseq
