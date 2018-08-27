@@ -16,26 +16,27 @@ Prerequisites: solid coding skills, strong analytical ability, basic machine lea
 
 Announcements and questions: the [#nlp](https://mss-ysu.slack.com/messages/CCC5LD4QP/) Slack channel and the [deeplanguageclass](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg) Telegram group
 
-### Fundamentals
+## Fundamentals
 
 Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrXtjlXC-R-2syv2xObYw35xg7N8-DA/view), [Fundamentals 2](https://docs.google.com/presentation/d/15_QC6P6K2yW-gTvExSol_b0ReWTvBwZp5im0nb5csdk/view)
 
-### Deep Learning
+## Deep Learning
 
 Slides: [Deep Learning](https://docs.google.com/presentation/d/1fw2G2KiLhNUm1gAR1DOSNsAvnyqyn_uUaxTkLqNr1Nk/view)
 
 Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki), [word2vec-gensim-gameofthrones.ipynb](https://github.com/deeplanguageclass/word2vec-gensim-gameofthrones.ipynb)
 
 
-### Lab - word2vec
+## Lab - word2vec
 
 Lab: [Classifying Amazon reviews with fastText](lab/fasttext-amazon)
 
 
-### Lab - seq2seq
+## Lab - seq2seq
 
 Lab: [Transliteration with Fairseq](lab/fairseq-transliteration)
 
-### More resources
+
+## More resources
 
 See [NLP Guide](https://nlpguide.github.io/)
