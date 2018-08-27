@@ -42,7 +42,7 @@ We take YerevaNN's approach of generating the "translit" data with the mappings 
 
 ## Training
 
-Because we need a GPU, we ran an [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.  Fairseq supports checkpointing, so you can test the model at any epoch and continue training.
+Because we need a GPU for Fairseq, we ran an [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.  Fairseq supports checkpointing, so you can test the model at any epoch and continue training.
 
 ## Demo
 
