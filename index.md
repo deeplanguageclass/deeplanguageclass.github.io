@@ -27,11 +27,14 @@ Slides: [Deep Learning](https://docs.google.com/presentation/d/1fw2G2KiLhNUm1gAR
 Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki), [word2vec-gensim-gameofthrones.ipynb](https://github.com/deeplanguageclass/word2vec-gensim-gameofthrones.ipynb)
 
 
-### [Lab - word2vec](lab/fasttext-amazon)
+### Lab - word2vec
+
+Lab: [Classifying Amazon reviews with fastText](lab/fasttext-amazon)
 
 
-### [Lab - seq2seq](lab/fairseq-transliteration)
+### Lab - seq2seq
 
+Lab: [Transliteration with Fairseq](lab/fairseq-transliteration)
 
 ### More resources
 
