@@ -60,6 +60,6 @@ There is a demo online at [104.155.65.42:5007/translit](http://104.155.65.42:500
 
 YerevaNN followed-up with a post [*Interpreting neurons in an LSTM network*](https://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/).  Is transliteration more interpretable than translation?
 
-## More
+## Transfer learning
 
-Can we learn multiple transliteration pairs in one model?  What will be the inptu?  Will the output improve?
+Can we learn multiple transliteration pairs in one model?  What will be the input?  Will the output improve?
