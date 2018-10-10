@@ -44,6 +44,16 @@ We take YerevaNN's approach of generating the "translit" data with the mappings 
 
 Because we need a GPU for Fairseq, we ran an [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.  Fairseq supports checkpointing, so you can test the model at any epoch and continue training.
 
+## Evaluation
+
 ## Demo
 
 There is a demo online at [104.155.65.42:5007/translit](http://104.155.65.42:5007/translit) that serves a model with Flask.  The model was trained for about an hour (three epochs) on a laptop.
+
+## Interpretability
+
+YerevaNN followed-up with a post [*Interpreting neurons in an LSTM network*](https://yerevann.github.io/2017/06/27/interpreting-neurons-in-an-LSTM-network/).  Is transliteration more interpretable than translation?
+
+## More
+
+Can we learn multiple transliteration pairs in one model?  What will be the inptu?  Will the output improve?
