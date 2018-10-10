@@ -40,6 +40,10 @@ Word-level seq2seq will not be very efficient for transliteration, because it wo
 
 We take YerevaNN's approach of generating the "translit" data with the mappings in [fairseq-transliteration-data/transliteration.json](https://github.com/deeplanguageclass/fairseq-transliteration-data/blob/master/transliteration.json).
 
+## Byte-pair encodings
+
+Fairseq supports the use of [byte pair encoding](http://www.aclweb.org/anthology/P16-1162) (BPE) which improve performance and also decreases training time, while adding a bit of complexity to the data pipeline.
+
 ## Training
 
 Because we need a GPU for Fairseq, we ran an [IPython Notebook](https://github.com/deeplanguageclass/fairseq-transliteration.ipynb) on Google Colab.  Fairseq supports checkpointing, so you can test the model at any epoch and continue training.
