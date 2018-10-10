@@ -46,6 +46,8 @@ Because we need a GPU for Fairseq, we ran an [IPython Notebook](https://github.c
 
 ## Evaluation
 
+For transliteration we can use either *exact match* or *character-level [BLEU](https://en.wikipedia.org/wiki/BLEU)*.  There are no well-known benchmarks, but we can compare to Google and Yandex.
+
 ## Demo
 
 There is a demo online at [104.155.65.42:5007/translit](http://104.155.65.42:5007/translit) that serves a model with Flask.  The model was trained for about an hour (three epochs) on a laptop.
