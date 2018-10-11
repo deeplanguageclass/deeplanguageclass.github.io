@@ -26,7 +26,7 @@ seq2seq is commonly used for translation, but is also useful for tasks like summ
 
 ## Fairseq
 
-Fairseq is [FAIR's implementation of seq2seq using PyTorch](https://github.com/pytorch/fairseq).
+Fairseq is [FAIR's implementation of seq2seq using PyTorch](https://github.com/pytorch/fairseq), used by [pytorch/translate](https://github.com/pytorch/translate) and Facebook's internal translation system.
 
 It was originally built for sequences of `words` - it splits a string on `' '` to get a list.
 
