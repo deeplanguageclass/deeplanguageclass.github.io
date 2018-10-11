@@ -23,6 +23,8 @@ It can also be applied to other types of sequences, like DNA.
 
 seq2seq is commonly used for translation, but is also useful for tasks like summarisation, grammar correction or question answering.
 
+What are the limitations of seq2seq?
+
 
 ## Fairseq
 
@@ -40,9 +42,11 @@ Word-level seq2seq will not be very efficient for transliteration, because it wo
 
 We take YerevaNN's approach of generating the "translit" data with the mappings in [fairseq-transliteration-data/transliteration.json](https://github.com/deeplanguageclass/fairseq-transliteration-data/blob/master/transliteration.json).
 
+An analogous approach is used for other tasks, even monolingual English tasks, for example [grammar correction](http://atpaino.com/2017/01/03/deep-text-correcter.html).
+
 ## Byte-pair encodings
 
-Fairseq supports the use of [byte pair encoding](http://www.aclweb.org/anthology/P16-1162) (BPE) which improve performance and also decreases training time, while adding a bit of complexity to the data pipeline.
+Fairseq supports the use of [byte pair encoding](http://www.aclweb.org/anthology/P16-1162) (BPE) which can improve performance and also decrease training time, while also reducing the readability of the data and complicating the data pre-processing.
 
 ## Training
 
@@ -63,3 +67,4 @@ YerevaNN followed-up with a post [*Interpreting neurons in an LSTM network*](htt
 ## Transfer learning
 
 Can we learn multiple transliteration pairs in one model?  What will be the input?  Will the output improve?
+
