@@ -1,6 +1,6 @@
 # Machine Learning for Natural Language Processing
 
-*This class is part of the [2018 YSU – ISTC Join Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/).  View or edit the source for this website at [github.com/deeplanguageclass](https://github.com/deeplanguageclass/).*
+*This class was first developed for the [2018 YSU – ISTC Join Summer School on Machine Learning](http://mathschool.ysu.am/mss2018/).  View or edit the source for this website at [github.com/deeplanguageclass](https://github.com/deeplanguageclass/).*
 
 <img src="/favicon.ico" align="left"/>
 
@@ -16,15 +16,34 @@ Prerequisites: solid coding skills, strong analytical ability, basic machine lea
 
 Announcements and questions: the private [#nlp](https://mss-ysu.slack.com/messages/CCC5LD4QP/) Slack channel and the public [deeplanguageclass](https://t.me/joinchat/H9ae6EwpvquVE6HYQNt2Qg) Telegram group
 
+
 ## Fundamentals
 
 Slides: [Fundamentals 1](https://docs.google.com/presentation/d/1CqUwXnsyjzDQzrXtjlXC-R-2syv2xObYw35xg7N8-DA/view), [Fundamentals 2](https://docs.google.com/presentation/d/15_QC6P6K2yW-gTvExSol_b0ReWTvBwZp5im0nb5csdk/view)
+
 
 ## Deep Learning
 
 Slides: [Deep Learning](https://docs.google.com/presentation/d/1fw2G2KiLhNUm1gAR1DOSNsAvnyqyn_uUaxTkLqNr1Nk/view)
 
 Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki), [word2vec-gensim-gameofthrones.ipynb](https://github.com/deeplanguageclass/word2vec-gensim-gameofthrones.ipynb)
+
+
+## Entity Recognition
+
+http://universaldependencies.org/  
+https://cloud.google.com/natural-language/  
+https://spacy.io/api/entityrecognizer  
+https://fastent.github.io/
+
+## Dialogue Systems
+
+https://rajpurkar.github.io/SQuAD-explorer/  https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html  
+https://github.com/facebookresearch/ParlAI
+
+## Mixed Medium
+https://cs.stanford.edu/people/jcjohns/clevr/  
+https://twitter.com/picdescbot
 
 
 ## Lab - word2vec
