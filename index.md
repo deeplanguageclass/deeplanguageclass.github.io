@@ -38,11 +38,12 @@ Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.git
 
 ## Dialogue Systems
 
-SQuaD  
+SQuAD  
 leaderboard: [rajpurkar.github.io/SQuAD-explorer/](https://rajpurkar.github.io/SQuAD-explorer/)  
 example: [Nikola Tesla](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html)
 
-[github.com/facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
+ParlAI  
+[parl.ai](http://parl.ai/) / [github.com/facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 
 ## Mixed Medium
 [cs.stanford.edu/people/jcjohns/clevr/](https://cs.stanford.edu/people/jcjohns/clevr/)   
