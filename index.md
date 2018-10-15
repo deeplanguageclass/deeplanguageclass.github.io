@@ -46,7 +46,8 @@ example: [Nikola Tesla](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/d
 
 ## Mixed Medium
 [cs.stanford.edu/people/jcjohns/clevr/](https://cs.stanford.edu/people/jcjohns/clevr/)   
-[twitter.com/picdescbot](https://twitter.com/picdescbot)
+[twitter.com/picdescbot](https://twitter.com/picdescbot)  
+[seq2seq for DNA](https://medium.com/@rajasankar/sequence-to-sequence-prediction-seq2seq-for-dna-proteins-analysis-e0b89d4edf43)
 
 ## Lab - word2vec
 
