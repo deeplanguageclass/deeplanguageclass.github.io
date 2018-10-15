@@ -31,20 +31,22 @@ Demos: [projector.tensorflow.org](https://projector.tensorflow.org), [anvaka.git
 
 ## Entity Recognition
 
-http://universaldependencies.org/  
-https://cloud.google.com/natural-language/  
-https://spacy.io/api/entityrecognizer  
-https://fastent.github.io/
+[universaldependencies.org](http://universaldependencies.org/)  
+[cloud.google.com/natural-language/](https://cloud.google.com/natural-language/)  
+[spacy.io/api/entityrecognizer](spacy.io/api/entityrecognizer)  
+[fastent.github.io](https://fastent.github.io/)
 
 ## Dialogue Systems
 
-https://rajpurkar.github.io/SQuAD-explorer/  https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html  
-https://github.com/facebookresearch/ParlAI
+SQuaD  
+leaderboard: [rajpurkar.github.io/SQuAD-explorer/](https://rajpurkar.github.io/SQuAD-explorer/)  
+example: [Nikola Tesla](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/Nikola_Tesla.html)
+
+[github.com/facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
 
 ## Mixed Medium
-https://cs.stanford.edu/people/jcjohns/clevr/  
-https://twitter.com/picdescbot
-
+[cs.stanford.edu/people/jcjohns/clevr/](https://cs.stanford.edu/people/jcjohns/clevr/)   
+[twitter.com/picdescbot](https://twitter.com/picdescbot)
 
 ## Lab - word2vec
 
